@@ -7,4 +7,3 @@ Based on D3's Sequences sunburst example.
 For Users: http://schoolbudget.phl.io 
 For Developers: https://github.com/CfABrigadePhiladelphia/schoolbudget.phl.io
 
-This is only a test for GDI Git/Github night.
